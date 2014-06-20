@@ -9,5 +9,5 @@ I wrote this code originally to solve the problem of how to include my facebook 
 I have not maintained this code since so it is out of date. Facebook has changed it's Open Graph APIs and also changed looks several times. So if anyone wanted to take this back up and update it, you are more than welcome to. I decided to post the files here to get it off my server and to have easily accessible examples of my work. 
 
 ## Setup
-This was first published on my blog site at: http://fedil.ukneeq.com/2011/01/03/facebook-wall-feed-for-wordpress/.
+This was first published on my blog site at: http://fedil.ukneeq.com/2011/06/23/facebook-wall-feed-for-wordpress-updated/.
 That page has a full explaination of the code and how to set it up.
