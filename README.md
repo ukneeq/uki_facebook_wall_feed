@@ -10,4 +10,9 @@ I have not maintained this code since so it is out of date. Facebook has changed
 
 ## Setup
 This was first published on my blog site at: http://fedil.ukneeq.com/2011/06/23/facebook-wall-feed-for-wordpress-updated/.
-That page has a full explaination of the code and how to set it up.
+That page has a full explaination of the code and how to set it up, but here is a quick break down of the steps
+
+### 1. Create a Facebook App
+### 2. Get the App Secret of the Facebook App
+### 3. Grant Permissions to the Facebook App
+### 4. Setup the uki_facebook_wall_feed files
