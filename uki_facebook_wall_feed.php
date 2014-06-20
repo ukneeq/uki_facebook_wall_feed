@@ -1,4 +1,11 @@
 <?php
+  /* File:     uki_facebook_wall_feed.php
+   Author:     Fedil Grogan
+   Date:       01/03/2011
+   Copyright:  Fedil Grogan 2011
+   Purpose:
+   This is the php class created to handle the facebook feed. 
+  */
   class uki_facebook_wall_feed
   {
     private $fbID;
