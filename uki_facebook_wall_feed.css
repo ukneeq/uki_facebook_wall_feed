@@ -1,0 +1,116 @@
+/* File:       uki_facebook_wall_feed.css
+   Author:     Fedil Grogan
+   Date:       01/03/2011
+   Copyright:  Fedil Grogan 2011
+   Purpose:
+   This is the styling sheet for the facebook feed. I tried to make it as
+   close to facebook as possible. Feel free to change as you wish.
+*/
+#facebook_status_box {
+  border: 1px solid #cccccc;
+  background: #ffffff;
+  color: #000000;
+  margin: 0px;
+  padding: 0px;
+  width: 315px;
+  height: 300px;
+  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+  font-size: 10px;
+}
+#facebook_status_box h2, #facebook_status_box h5 {
+  margin: 0px;
+  padding: 0px;
+}
+#facebook_status_box p {
+  margin: 0px;
+  padding: 3px 0px 0px 0px;
+  color: #000000;
+}
+#facebook_status_box h2 {
+  color: #ffffff;
+  background: #3b5998;
+  margin: 0px;
+  padding: 7px 0px 0px 3px;
+  height: 19px;
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+}
+
+#facebook_status_box #facebook_canvas {
+  overflow: auto;
+  overflow-x: hidden;
+  height: 275px;  
+}
+#facebook_status_box .fb_post {
+  margin: 10px 2px;
+  border-bottom: 1px solid #e6e6fa;
+}
+#facebook_status_box .fb_post h5 {
+  padding: 0px;
+  font-size: 1.1em;
+}
+#facebook_status_box .fb_post h5 a {
+  color: #3b5998;
+  text-decoration: none;
+}
+#facebook_status_box .fb_post h5 a:hover {
+  text-decoration: underline;
+}
+#facebook_status_box .fb_post .fb_photo {
+  float: left;
+  width: 50px;
+  margin: 3px;
+}
+#facebook_status_box .fb_post .fb_photo img {
+  border: none;
+}
+#facebook_status_box .fb_post .fb_msg {
+  float: right;
+  width: 235px;
+}
+#facebook_status_box .fb_post .fb_msg p {
+  font-size: 10px;
+}
+#facebook_status_box .fb_post .fb_msg .fb_time {
+  color: #999999;
+  padding-bottom: 5px;
+}
+#facebook_status_box .fb_link_post img {
+  margin: 0px 3px 0px 0px;
+  float: left;
+}
+#facebook_status_box .fb_link_post h6 {
+  font-size: .9em;
+  margin: 3px 0px 0px 0px;
+}
+#facebook_status_box .fb_link_post a {
+  color: #3b5998;
+  text-decoration: none;
+}
+#facebook_status_box .fb_link_post a:hover {
+  text-decoration: underline;
+}
+#facebook_status_box .fb_link_post p {
+  font-size: .9em;
+  color: #999999;
+}
+#facebook_status_box .fb_link_post p.fb_link_caption {
+  margin: 0px;
+  margin-top: -5px;
+  color: #000000;
+}
+#facebook_status_box .fb_post img.fb_post_icon {
+  float: left;
+  margin: 2px;
+}
+#facebook_status_box .fb_post .fb_msg .fb_commLink {
+  margin-left: 3px;
+}
+#facebook_status_box .fb_post .fb_msg .fb_commLink a {
+  color: #3b5998;
+  text-decoration: none;
+}
+#facebook_status_box .fb_post .fb_msg .fb_commLink a:hover {
+  text-decoration: underline;
+}
